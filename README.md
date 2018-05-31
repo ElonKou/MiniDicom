@@ -1,0 +1,2 @@
+# MiniDicom
+Mini Dicom viewer.
