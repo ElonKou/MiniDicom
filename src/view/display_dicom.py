@@ -38,8 +38,6 @@ if __name__ == "__main__":
     cv2.imshow("image", data[15, :, :] * 30)
     cv2.waitKey(0)
 
-    sitk.
-
     # plt.figure(figsize=(12, 12))
     # plt.subplot(131)
     # plt.imshow(slices[int(len(slices) / 2)].image, 'gray')
